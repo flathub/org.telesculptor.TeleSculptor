@@ -1,6 +1,6 @@
 app-id: org.telesculptor.TeleSculptor
 runtime: org.kde.Platform
-runtime-version: '5.15'
+runtime-version: '5.15-21.08'
 sdk: org.kde.Sdk
 command: TeleSculptor
 finish-args:
